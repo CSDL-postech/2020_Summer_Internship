@@ -1,7 +1,6 @@
 # 2020_Summer_Internship
 
 ## Basic course (07/06)
-====================
 
 [1. Internship Orientation](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EUpLhzzuMvtJmRG0j6O3-C8BvdaJviUowoeeBjhmMoHEwA?e=4setq1)
 
