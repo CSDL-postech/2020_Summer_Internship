@@ -1,6 +1,7 @@
 # 2020_Summer_Internship
 
 Basic course (07/06)
+====================
 
 [1. Internship Orientation](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EUpLhzzuMvtJmRG0j6O3-C8BvdaJviUowoeeBjhmMoHEwA?e=4setq1)
 
@@ -12,4 +13,4 @@ Basic course (07/06)
 
 [5. Tcl](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EZltUR7VEvJEk9yJpi5yS7QBRzBFMbHHRe_7__L5DvDgNg?e=J8K7uQ)
 
- [Tcl Reference](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EfPJO3cGUU9DgjtUp-yH2UgBDU44bgLU5PA_ZdCKhGad7w?e=3eaiAc)
+* [Tcl Reference](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EfPJO3cGUU9DgjtUp-yH2UgBDU44bgLU5PA_ZdCKhGad7w?e=3eaiAc)
