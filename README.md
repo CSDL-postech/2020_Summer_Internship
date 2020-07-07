@@ -1,4 +1,5 @@
 # 2020_Summer_Internship
+![2020-summer-intern](https://user-images.githubusercontent.com/67090206/86716368-15979000-c05c-11ea-80de-964f4b7789ff.png)
 
 [Basic Flow](https://github.com/CSDL-postech/CSDL_Tutorial)
 
