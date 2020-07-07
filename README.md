@@ -15,3 +15,21 @@
 [5. Tcl](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EZltUR7VEvJEk9yJpi5yS7QBRzBFMbHHRe_7__L5DvDgNg?e=J8K7uQ)
 
 * [Tcl Reference](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EfPJO3cGUU9DgjtUp-yH2UgBDU44bgLU5PA_ZdCKhGad7w?e=3eaiAc)
+
+## Quantum & MVL Introduction (07/08)
+
+1. Quantum Intro
+
+2. MVL Intro
+
+## Hspice & Virtuoso (07/13)
+
+## DL HW Introduction (07/15)
+
+## RTL simulation (07/20)
+
+## Physical Design Introduction (07/22)
+
+## Synthesis (07/27)
+
+## Back-end (07/29)
