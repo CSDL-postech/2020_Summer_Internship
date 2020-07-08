@@ -19,7 +19,7 @@
 
 ## Quantum & MVL Introduction (07/08)
 
-1. Quantum Intro
+[1. Quantum Intro](https://www.dropbox.com/s/yb7zpsob31k33t6/200708_QC%20%28github%EC%9A%A9%29.pdf?dl=0)
 
 2. MVL Intro
 
