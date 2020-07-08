@@ -17,13 +17,13 @@
 
 * [Tcl Reference](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EfPJO3cGUU9DgjtUp-yH2UgBDU44bgLU5PA_ZdCKhGad7w?e=3eaiAc)
 
-## Quantum & MVL Introduction (07/08)
+## Quantum Introduction (07/08)
 
 [1. Quantum Intro](https://www.dropbox.com/s/yb7zpsob31k33t6/200708_QC%20%28github%EC%9A%A9%29.pdf?dl=0)
 
-2. MVL Intro
+## MVL Intro / Hspice & Virtuoso (07/13)
 
-## Hspice & Virtuoso (07/13)
+1. MVL Intro
 
 ## DL HW Introduction (07/15)
 
