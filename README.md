@@ -25,6 +25,8 @@
 
 1. MVL Intro
 
+[2. Hspice & Virtuoso](https://www.dropbox.com/s/17ut4gv35nkwyrp/HSPICE_VIRTUOSO.pdf?dl=0)
+
 ## DL HW Introduction (07/15)
 
 ## RTL simulation (07/20)
