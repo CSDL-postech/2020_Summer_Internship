@@ -29,6 +29,8 @@
 
 ## DL HW Introduction (07/15)
 
+[1. DL HW Intro](https://www.dropbox.com/s/mi7vxp2kki3sxi1/200715_DL.pdf?dl=0)
+
 ## RTL simulation (07/20)
 
 ## Physical Design Introduction (07/22)
