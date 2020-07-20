@@ -33,6 +33,8 @@
 
 ## RTL simulation (07/20)
 
+[1. Verilog](https://www.dropbox.com/s/3mgc5fovbrtsg5s/Internship_verilog.pdf?dl=0)
+
 ## Physical Design Introduction (07/22)
 
 ## Synthesis (07/27)
