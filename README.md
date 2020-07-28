@@ -39,4 +39,6 @@
 
 ## Synthesis (07/27)
 
+[1. Synthesis & Gate level simulation](https://www.dropbox.com/s/sfnnty88l25f2pi/Synthesis.pdf?dl=0)
+
 ## Back-end (07/29)
