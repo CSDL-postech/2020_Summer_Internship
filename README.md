@@ -42,3 +42,5 @@
 [1. Synthesis & Gate level simulation](https://www.dropbox.com/s/sfnnty88l25f2pi/Synthesis.pdf?dl=0)
 
 ## Back-end (07/29)
+
+[1. IC compiler](https://www.dropbox.com/s/g7dunaorucggx05/IC%20compiler.pdf?dl=0)
